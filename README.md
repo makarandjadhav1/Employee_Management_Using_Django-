@@ -207,8 +207,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: lxgtx1080@gmail.com
+- **GitHub**: [Makarand Jadhav](https://github.com/makarandjadhav1)
 
 ---
 
