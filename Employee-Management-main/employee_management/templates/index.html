@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Management</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <h1>Employee Management</h1>
+    <form id="employeeForm">
+        <input type="text" id="name" placeholder="Name" required>
+        <input type="text" id="department" placeholder="Department" required>
+        <input type="number" id="salary" placeholder="Salary" required>
+        <input type="date" id="joiningDate" required>
+        <button type="submit">Add Employee</button>
+    </form>
+    <table id="employeeTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Department</th>
+                <th>Salary</th>
+                <th>Joining Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Rows will be populated by JavaScript -->
+        </tbody>
+    </table>
+    <script src="/static/js/script.js"></script>
+</body>
+</html>
